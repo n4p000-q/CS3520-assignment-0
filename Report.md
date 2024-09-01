@@ -51,4 +51,10 @@ Each possible combination of 2-bit inputs was tested. The table below summarizes
 further test cases screenshots are in the Circuit Test Cases Folder
 
 ## Challenges and Solutions
-One challenge was ensuring correct carry bit propagation. This was resolved by double-checking the connections between gates in the simulation.
+We had to quickly get up to speed with GitHub and YouTube for this project. Learning GitHub involved understanding version control, collaboration through branches, and writing clear documentation using Markdown. We also explored how to publish our report using GitHub Pages.
+
+For YouTube, we had to learn video production skills, including capturing simulation footage, editing, and scriptwriting, to clearly demonstrate our circuit's functionality. This experience challenged us to effectively use modern tools for collaboration and presentation, essential skills for our future.
+
+##	CONCLUSION
+
+The design and testing of the 2 – bit binary adder were successfully completed. The circuit performed correctly for all input combinations, and the simulation results matched the expected outcomes. The challenges encountered during the simulation, such as timing issues and carry propagation were effectively resolved. The project demonstrates a thorough understanding of digital circuit design and simulation.
