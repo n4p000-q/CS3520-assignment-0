@@ -5,16 +5,23 @@ This assignment/project involves the design, simulation and testing of a 2-bit b
 
 ## Repository Structure
 
-- `circuit/` - Contains the circuit schematic diagram and Logisim files.
-- `images/` - Includes screenshots used in the documentation.
-- `docs/` - Contains the detailed published report.
+- `2-bit Adder(CS3520-assignment 0).dwm/` - Contains the circuit schematic diagram and Logisim files.
+- `Circuit Test Cases/` - Includes screenshots used in the documentation.
+- `report.docx/` - Contains the detailed published report.
 - `README.md` - Overview of the project and guidance on how to use the repository.
 
+## How to Use
+1. Use Digital-Works to open the `.dwm` file to view and simulate the circuit.
+   
+## Additional Resources
 
-This group has **6 members:
-- Napo Qheku | 202101679
-- Kabelo Thesele | 20210
-- Khiba Ratele | 20210
-- Ts'epo Mokhabi | 20210
-- Motseki Maetlane | 20210
-- Repholositsoe Nchochoba | 20190
+- [Published Report](https://yourblogsite.com/report)
+- [YouTube Video Demonstration](https://youtu.be/o_3akUZPG7s)
+  
+### This group has 6 members/collaborators:
+- Napo Qheku | 202101679 | 
+- Kabelo Thesele | 20210 |
+- Khiba Ratele | 20210 |
+- Ts'epo Mokhabi | 20210 |
+- Motseki Maetlane | 20210 |
+- Repholositsoe Nchochoba | 20190 |
