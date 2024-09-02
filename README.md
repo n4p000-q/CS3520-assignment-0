@@ -15,7 +15,7 @@ This assignment/project involves the design, simulation and testing of a 2-bit b
    
 ## Additional Resources
 
-- [Published Report](report.md)
+- [Published Report](Report.md)
 - [YouTube Video Demonstration](https://youtu.be/o_3akUZPG7s)
   
 ### This group has 6 members/collaborators:
