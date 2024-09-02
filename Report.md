@@ -3,7 +3,7 @@
 ## Group members
 1. Kabelo Thesele
 2. Napo Qheku
-3. khiba Ratele
+3. Khiba Ratele
 4. Ts'epo Mokhabi
 5. Motseki Maetlane
 6. Repholositsoe Nchochoba
