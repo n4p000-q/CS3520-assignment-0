@@ -57,4 +57,4 @@ For YouTube, we had to learn video production skills, including capturing simula
 
 ##	CONCLUSION
 
-The design and testing of the 2 – bit binary adder were successfully completed. The circuit performed correctly for all input combinations, and the simulation results matched the expected outcomes. The challenges encountered during the simulation, such as timing issues and carry propagation were effectively resolved. The project demonstrates a thorough understanding of digital circuit design and simulation.
+The design and testing of the 2–bit binary adder were successfully completed. The circuit performed correctly for all input combinations, and the simulation results matched the expected outcomes. The challenges encountered during the simulation, such as timing issues and carry propagation were effectively resolved. The project demonstrates a thorough understanding of digital circuit design and simulation.
