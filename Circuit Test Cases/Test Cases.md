@@ -1,0 +1,97 @@
+# Circuit Test Cases
+
+## Test Case 1
+Test case 1, we have A = 00 and B = 00.
+Expected output 00, with carry-out = 0
+
+![Test Case 1 Screenshot](Circuit%20Test%20Cases/Test%20Case%201.png)
+
+## Test Case 2
+Test case 2, we have A = 00 and B = 01.
+Expected output 01, with carry-out = 0
+
+![Test Case 2 Screenshot](Circuit%20Test%20Cases/Test%20Case%202.png)
+
+## Test Case 3
+Test case 3, we have A = 00 and B = 10.
+Expected output 10, with carry-out = 0
+
+![Test Case 3 Screenshot](Circuit%20Test%20Cases/Test%20Case%203.png)
+
+## Test Case 4
+Test case 4, we have A = 00 and B = 11.
+Expected output 11, with carry-out = 0
+
+![Test Case 4 Screenshot](Circuit%20Test%20Cases/Test%20Case%204.png)
+
+## Test Case 5
+Test case 5, we have A = 01 and B = 00.
+Expected output 01, with carry-out = 0
+
+![Test Case 5 Screenshot](Circuit%20Test%20Cases/Test%20Case%205.png)
+
+## Test Case 6
+Test case 6, we have A = 01 and B = 01.
+Expected output 10, with carry-out = 0
+
+![Test Case 6 Screenshot](Circuit%20Test%20Cases/Test%20Case%206.png)
+
+## Test Case 7
+Test case 7, we have A = 01 and B = 10.
+Expected output 11, with carry-out = 0
+
+![Test Case 7 Screenshot](Circuit%20Test%20Cases/Test%20Case%207.png)
+
+## Test Case 8
+Test case 8, we have A = 01 and B = 11.
+Expected output 00, with carry-out = 1
+
+![Test Case 8 Screenshot](Circuit%20Test%20Cases/Test%20Case%208.png)
+
+## Test Case 9
+Test case 9, we have A = 10 and B = 00.
+Expected output 10, with carry-out = 0
+
+![Test Case 9 Screenshot](Circuit%20Test%20Cases/Test%20Case%209.png)
+
+## Test Case 10
+Test case 10, we have A = 10 and B = 01.
+Expected output 11, with carry-out = 0
+
+![Test Case 10 Screenshot](Circuit%20Test%20Cases/Test%20Case%2010.png)
+
+## Test Case 11
+Test case 11, we have A = 10 and B = 10.
+Expected output 00, with carry-out = 1
+
+![Test Case 11 Screenshot](Circuit%20Test%20Cases/Test%20case%2011.png)
+
+## Test Case 12
+Test case 12, we have A = 10 and B = 11.
+Expected output 01, with carry-out = 1
+
+![Test Case 12 Screenshot](Circuit%20Test%20Cases/Test%20Case%2012.png)
+
+## Test Case 13
+Test case 13, we have A = 11 and B = 00.
+Expected output 11, with carry-out = 0
+
+![Test Case 13 Screenshot](Circuit%20Test%20Cases/Test%20Case%2013.png)
+
+## Test Case 14
+Test case 14, we have A = 11 and B = 01.
+Expected output 00, with carry-out = 1
+
+![Test Case 14 Screenshot](Circuit%20Test%20Cases/Testing%20Case%2014.png)
+
+## Test Case 15
+Test case 15, we have A = 11 and B = 10.
+Expected output 01, with carry-out = 1
+
+![Test Case 15 Screenshot](Circuit%20Test%20Cases/Testing%20Case%2015.png)
+
+## Test Case 16
+Test case 16, we have A = 11 and B = 11.
+Expected output 10, with carry-out = 1
+
+![Test Case 16 Screenshot](Circuit%20Test%20Cases/Testing%20Case%2016.png)
