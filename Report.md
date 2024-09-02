@@ -19,7 +19,7 @@ The objective of this project was to design, simulate, and test a 2-bit binary a
 ## Circuit Design
 The circuit was designed using two half adders and an OR gate. The first half adder processes the least significant bits, while the second half adder manages the most significant bits along with the carry-in. The OR gate handles the final carry-out bit.
 
-![Circuit Diagram](Binary Adder Circuit.png)
+![Circuit Diagram](Binary_Adder_Circuit.png)
 
 ## Simulation Process
 The circuit was simulated using Logisim. Each input scenario was tested to ensure the circuit correctly computed the sum and carry-out values.
