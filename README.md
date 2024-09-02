@@ -5,9 +5,9 @@ This assignment/project involves the design, simulation and testing of a 2-bit b
 
 ## Repository Structure
 
-- `2-bit Adder(CS3520-assignment 0).dwm/` - Contains the circuit schematic diagram and Logisim files.
+- `2-bit Adder(CS3520-assignment 0).dwm` - Contains the circuit schematic diagram and Logisim files.
 - `Circuit Test Cases/` - Includes screenshots used in the documentation.
-- `report.docx/` - Contains the detailed published report.
+- `report.docx` & `report.md` - Contain the detailed published report.
 - `README.md` - Overview of the project and guidance on how to use the repository.
 
 ## How to Use
@@ -15,7 +15,7 @@ This assignment/project involves the design, simulation and testing of a 2-bit b
    
 ## Additional Resources
 
-- [Published Report](https://yourblogsite.com/report)
+- [Published Report](report.md)
 - [YouTube Video Demonstration](https://youtu.be/o_3akUZPG7s)
   
 ### This group has 6 members/collaborators:
