@@ -20,8 +20,8 @@ This assignment/project involves the design, simulation and testing of a 2-bit b
   
 ### This group has 6 members/collaborators:
 - Napo Qheku | 202101679 | 
-- Kabelo Thesele | 20210 |
-- Khiba Ratele | 20210 |
-- Ts'epo Mokhabi | 20210 |
-- Motseki Maetlane | 20210 |
-- Repholositsoe Nchochoba | 20190 |
+- Kabelo Thesele | 202101668 |
+- Khiba Ratele | 202101930 |
+- Ts'epo Mokhabi | 202101660 |
+- Motseki Maetlane | 202100207 |
+- Repholositsoe Nchochoba | 201902145 |
