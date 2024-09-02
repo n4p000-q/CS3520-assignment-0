@@ -48,7 +48,7 @@ Each possible combination of 2-bit inputs was tested. The table below summarizes
 | 15        | 1  | 1  | 1  | 0  | 01           | 1                 | 01         | 1               |
 | 16        | 1  | 1  | 1  | 1  | 10           | 1                 | 10         | 1               |
 
-further test cases screenshots are in the [Circuit Test Cases](Circuit%Test%Cases/) Folder
+further test cases screenshots are in the [Circuit Test Cases](Circuit%20Test%20Cases/) Folder
 
 ## Challenges and Solutions
 We had to quickly get up to speed with GitHub and YouTube for this project. Learning GitHub involved understanding version control, collaboration through branches, and writing clear documentation using Markdown. We also explored how to publish our report using GitHub Pages.
